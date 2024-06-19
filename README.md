@@ -1,10 +1,10 @@
 # Mini-Shell
 
-Mini-Shell is a simple shell program written in C that mimics basic Unix shell commands. This project demonstrates basic concepts of process management, file handling, and command execution in a Unix-like environment.
+The Mini-Shell is a simple shell program written in C that mimics basic Unix shell commands. This project demonstrates basic concepts of process management, file handling, and command execution in a Linux environment.
 
 ## Features
 
-- Execute common Unix commands such as `ls`, `pwd`, `touch`, `cat`, `rm`, `echo`, `mkdir`, `mv`, `cal`, `who`, `more`, `sort`, `uniq`, `ps`, `kill`, `cmp`, and `history`.
+- Execute common Linux commands such as `ls`, `pwd`, `touch`, `cat`, `rm`, `echo`, `mkdir`, `mv`, `cal`, `who`, `more`, `sort`, `uniq`, `ps`, `kill`, `cmp`, and `history`.
 - Implement command history functionality.
 - Execute commands in pipelines.
 - Display information about running processes.
